@@ -17,10 +17,12 @@
 - PHI Information
 - **Survival Outcome**
 
+### Slide Level
+- **Tumor/Normal (TN) categorical: T N**
+
 ### Duct/Lesion Level
 
 - **Lesion/Duct ID (sid)**
-- **Tumor/Normal (TN) categorical: T N**
 - **TACS-3 present (TACS3) Y/N**
 - **number of red, yellow, green pixels**
 
@@ -53,6 +55,7 @@
 - box alignment 32: ba32
 - box alignment 64: ba64
 - box alignment 128: ba128
+- nearest dist to bound: ndb
 - Remark: above listed in raw feature files column A to AB.
 - AB1
 - AB2
